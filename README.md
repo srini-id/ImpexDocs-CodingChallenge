@@ -46,4 +46,4 @@ Your front end and datalayer can be any technology you wish. Choose this wisely 
 5. Screen 3 should be the full details of the Shipment. All fields except the `CompanyID` should be editable
   - A save button should be exposed that saves the changes
   - A delete button should be exposed that deletes that entry and returns back to Screen 2 
-
+6. Anything that is not provided above, you are free to make assumptions and list them on the readme documentation
