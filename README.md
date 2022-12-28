@@ -18,8 +18,9 @@ We anticipate the task to take you approximately 8-10 hours to complete but may 
   - Security aspects
   - Extensibility of code (Think about the framework you will use , e.g. n-tier, DDD etc)
   - SOLID principles in action
-3. Breadth of knowledge in the field. We want you to showcase how much you understand in the area of software development. You want to really use this to showcase the various talents you have (e.g. you might want to showcase your ability in running services in a container, or how you would do a CICD pipelines for your solution)
-4. How you maintain the source code (checkins, commit messages, branching etc are all part of the process). Make sure to demonstrate your abilities if this was code you are delivering to production.
+3. How you develop APIs (using good practices such as pagination, RESTful in nature etc)
+4. Breadth of knowledge in the field. We want you to showcase how much you understand in the area of software development. You want to really use this to showcase the various talents you have (e.g. you might want to showcase your ability in running services in a container, or how you would do a CICD pipelines for your solution)
+5. How you maintain the source code (checkins, commit messages, branching etc are all part of the process). Make sure to demonstrate your abilities if this was code you are delivering to production.
 
 ### Constraints
 
@@ -28,3 +29,15 @@ The main constraints we have on this solution is that it shall be a `.NET Core` 
 *If your code does not build or we can not get it to run based on your instructions, we will not be going any further.*
 
 Your front end and datalayer can be any technology you wish. Choose this wisely as you may want to build certain tests associated with the code so the technology choice can become important.
+
+## Requirements
+
+1. You will be required to create three different screens
+  - Screen 1 - Login page
+  - Screen 2 - Shipment summary page which shows a list of all the available shipments on the page
+  - Screen 3 - Page showing the full details of any one of the shipment that is selected from screen 2
+2. Only logged in users should be able to access screen 2 and screen 3. If the user failed authentication, there should be adequate messaging
+3. Each user belongs to only one company. When a user logs in successfully, they will see the details of all the shipments for that company. To verify this, you will need to create at MINIMUM, two users and two companies, to verify that appropriate data is returned for the user. 
+4. Shipment Summary page (Screen 2) will be a readonly view of all several fields of a shipment (See more info on `Domain Entity Details` below)
+  - A grid should be available to display all the shipment details
+  - For dummy data, you should have at minimum
