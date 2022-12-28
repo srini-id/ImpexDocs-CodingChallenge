@@ -16,9 +16,9 @@ We anticipate the task to take you approximately 8-10 hours to complete but may 
   - Automated tests (unit, integration etc)
   - Scalability of solution
   - Security aspects
-  - Extensibility of code
+  - Extensibility of code (Think about the framework you will use , e.g. n-tier, DDD etc)
   - SOLID principles in action
-3. Breadth of knowledge in the field. We want you to showcase how much you understand in the area of software development. Yoi want to really use this to showcase the various talents you have
+3. Breadth of knowledge in the field. We want you to showcase how much you understand in the area of software development. You want to really use this to showcase the various talents you have (e.g. you might want to shwocase your ability in running services in a container)
 
 ### Constraints
 
