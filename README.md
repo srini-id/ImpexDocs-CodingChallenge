@@ -27,4 +27,4 @@ The main constraints we have on this solution is that it shall be a `.NET Core` 
 
 *If your code does not build or we can not get it to run based on your instructions, we will not be going any further.*
 
-Your front end and datalayer can be any technology you wish. Choose this wisely as you may want to build certain tests with associated with the code so the technology choice can become important.
+Your front end and datalayer can be any technology you wish. Choose this wisely as you may want to build certain tests associated with the code so the technology choice can become important.
