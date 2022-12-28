@@ -11,7 +11,7 @@ We anticipate the task to take you approximately 8-10 hours to complete but may 
 ### What we are looking for
 
 1. Attention to detail. You will need to carefully read through the requirements and constraints and make sure to comply with that
-2. Quality of code. This is your chance to shine as a Software Engineer. You need to demonstrate your bredth of knowledge. Things we look for include 
+2. Quality of code. This is your chance to shine as a Software Engineer. You need to demonstrate your breadth of knowledge. Things we look for include 
   - Code structure (think through how many projects in the solution, what is the strcture, what architecture you will use etc)
   - Automated tests (unit, integration etc)
   - Scalability of solution
