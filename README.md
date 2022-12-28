@@ -4,7 +4,7 @@
 
 ImpexDocs is a leading provider of import and export documentation. The product is designed to help streamline the overall process with shipping, sales, invoicing etc.
 
-You have been given the task to showcase build out an initial prototype of the next generation SaaS solution for ImpexDocs. You will need to be able to demonstrate your abilities as a full stack developer working on the code base as if it will be going out into production.
+You have been given the task to build out an initial working prototype of the next generation SaaS solution for ImpexDocs. You will need to be able to demonstrate your abilities as a full stack developer working on the code base as if it will be going out into production.
 
 We anticipate the task to take you approximately 8-10 hours to complete but may possibly take you more based on how far you wish to go.
 
