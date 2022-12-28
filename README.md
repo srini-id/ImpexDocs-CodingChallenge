@@ -19,9 +19,12 @@ We anticipate the task to take you approximately 8-10 hours to complete but may 
   - Extensibility of code (Think about the framework you will use , e.g. n-tier, DDD etc)
   - SOLID principles in action
 3. Breadth of knowledge in the field. We want you to showcase how much you understand in the area of software development. You want to really use this to showcase the various talents you have (e.g. you might want to shwocase your ability in running services in a container)
+4. How you maintain the source code (checkins, commit messages, branching etc are all part of the process). Make sure to demonstrate your abilities if this was code you are delivering to production.
 
 ### Constraints
 
-The main constraints we have on this solution is that it shall be a `.NET Core` backend. You will need to provide a readme documentation to your file on how to execute and have it run by our Engineers. If your code does not build or we can not get it to run based on your instructions, we will not be going any further.
+The main constraints we have on this solution is that it shall be a `.NET Core` backend. You will need to provide a readme documentation to your file on how to execute and have it run by our Engineers. Check your code into a public git repository and share the repository with read access to the public.
+
+*If your code does not build or we can not get it to run based on your instructions, we will not be going any further.*
 
 Your front end and datalayer can be any technology you wish. Choose this wisely as you may want to build certain tests with associated with the code so the technology choice can become important.
