@@ -41,7 +41,7 @@ Your front end and datalayer can be any technology you wish. Choose this wisely 
 4. Shipment Summary page (Screen 2) will be a readonly view of all several fields of a shipment (See `DummyData.xlsx` for more info)
   - A grid should be available to display all the shipment details
   - You should use the `DummyData.xlsx` as inputs. You are encouraged to add more rows to the dummy data as you wish
-  - You should expose some way to edit a shipment details from the list. Clicking on it shouild take you to screen 3
+  - You should expose some way to edit a shipment details from the list. Clicking on it should take you to screen 3
   - You should expose some way to delete a single entry in the shipment details
 5. Screen 3 should be the full details of the Shipment. All fields except the `CompanyID` should be editable
   - A save button should be exposed that saves the changes
