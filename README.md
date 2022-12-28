@@ -12,11 +12,11 @@ We anticipate the task to take you approximately 8-10 hours to complete but may 
 
 1. Attention to detail. You will need to carefully read through the requirements and constraints and make sure to comply with that
 2. Quality of code. This is your chance to shine as a Software Engineer. You need to demonstrate your breadth of knowledge. Things we look for include 
-  - Code structure (think through how many projects in the solution, what is the strcture, what architecture you will use etc)
+  - Code structure (think through how many projects in the solution, what is the structure, what architecture you will use etc)
   - Automated tests (unit, integration etc)
   - Scalability of solution
   - Security aspects
-  - Extensibility of code (Think about the framework you will use , e.g. n-tier, DDD etc)
+  - Extensibility of code (think about the framework you will use , e.g. n-tier, DDD etc)
   - SOLID principles in action
 3. How you develop APIs (using good practices such as pagination, RESTful in nature etc)
 4. Breadth of knowledge in the field. We want you to showcase how much you understand in the area of software development. You want to really use this to showcase the various talents you have (e.g. you might want to showcase your ability in running services in a container, or how you would do a CICD pipelines for your solution)
